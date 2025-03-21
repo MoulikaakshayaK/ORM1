@@ -1,5 +1,8 @@
 # Ex02 Django ORM Web Application
 ## Date: 21.03.2025
+NAME: K.MOULIKA AKSHAYA
+
+REG NO: 212224040203
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
@@ -46,6 +49,7 @@ admin.site.register(Movie,MovieAdmin)
 ```
 
 ## OUTPUT
+![ORM 2 WEB](https://github.com/user-attachments/assets/34838af7-02d9-4d20-8184-6b09acce9073)
 
 
 
